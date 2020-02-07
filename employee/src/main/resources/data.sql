@@ -1,0 +1,1 @@
+INSERT INTO EMPLOYEE (id,firstname) values (1,'aa');
